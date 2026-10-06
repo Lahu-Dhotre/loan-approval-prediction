@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 Loan Approval Prediction
 
 Predict whether a loan application should be approved using the classic Loan Prediction dataset. This repository provides modular notebooks, reusable Python modules, and reproducible artifacts for data exploration, model building, tuning, and deployment.
@@ -211,3 +212,6 @@ Delete the `artifacts/` folder to start fresh.
 
 Happy modeling!  
 Open an issue or reach out if you need help extending the workflow.
+=======
+# loan-approval-prediction
+>>>>>>> 53edfde0ce7f76fdadbd6bbfd0ac809c9b902571
